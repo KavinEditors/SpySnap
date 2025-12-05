@@ -1,6 +1,3 @@
-
-Automatic Webcam Capture on File Download – Windows
-
 Overview
 --------
 This program continuously monitors the Downloads folder and automatically captures a webcam photo whenever any new file is downloaded or created. Captured photos are saved in:
